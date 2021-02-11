@@ -19,7 +19,7 @@
   "homepage": "https://github.com/evseevdev/vue-suggestions#readme",
   "dependencies": {
     "jquery": "^3.2.1",
-    "suggestions-jquery": "^17.5.0"
+    "suggestions-jquery": "^21.2.0"
   }
 }
  
