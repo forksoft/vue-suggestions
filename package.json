@@ -1,5 +1,5 @@
 {
-  "name": "vue-suggestions",
+  "name": "vue-super-suggestions",
   "version": "1.0.0",
   "description": "Vue компонент для плагина сервиса Подсказок DaData.ru",
   "main": "vue-suggestions.vue",
